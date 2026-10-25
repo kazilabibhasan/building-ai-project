@@ -3,22 +3,22 @@
 Final project for the Building AI course
 
 ## Summary
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length!
+In this project, I am exploring how artificial intelligence can be applied to solve real-world problems. The main goal is to create a simple and practical AI-based solution that benefits the community.
 
 ## Background
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+Many people face challenges when trying to find efficient ways to solve everyday problems. This topic is important because it highlights how technology can make daily tasks easier and more accessible for everyone.
 
 ## How is it used?
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The solution is designed for everyday users who need quick guidance or automated assistance. It can be accessed through a simple web or mobile interface whenever assistance is required.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+The project relies on publicly available datasets and basic machine learning principles, such as classification and nearest neighbor methods, learned during the Building AI course.
 
 ## Challenges
-What does your project *not* solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This project focuses on a conceptual solution and does not solve all complex edge cases. Privacy, data quality, and ethical considerations should be properly managed when deploying it in the real world.
 
 ## What next?
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on?
+In the future, this project could be expanded into a fully functional application with real-time data collection and a larger dataset, requiring support from software developers and data scientists.
 
 ## Acknowledgments
-* list here the sources of inspiration
+* Inspired by the Building AI course by Reaktor Innovations and the University of Helsinki.
